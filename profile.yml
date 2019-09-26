@@ -1,0 +1,7 @@
+language:
+  name: "catalan"
+  code: "ca-es"
+
+text-to-speech:
+  espeak:
+    voice: "ca"
